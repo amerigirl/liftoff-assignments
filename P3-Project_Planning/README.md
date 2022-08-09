@@ -7,7 +7,7 @@ For this assignment, you'll create some initial plans for your project.
 ## Submission Instructions
 
 ### Wireframes
-
+https://1drv.ms/b/s!AvfROSLaiXV_pO9ztomW-VImRJsQmA?e=lkJ61l
 
 ### Project Tracker
 https://trello.com/b/qHwuKw7F/liftoff22
