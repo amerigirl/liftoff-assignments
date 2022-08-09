@@ -8,6 +8,7 @@ For this assignment, you will submit a high-level outline of your project. This 
 
 ### Overview
 This application will allow users to post upcoming tournaments that other users will then be able to join/sign up for. Users will also be able to login and create their posts as needed. Finally, users that would like to join the tournament cna click on the post and join instantly.
+
 ### Features
 1.(Secure) Login/Password
 2. Users will be able to create a post
